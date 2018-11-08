@@ -1,2 +1,2 @@
 # ergomac
-custom split ergonom keyboard pcb
+custom split ergonomic keyboard pcb
